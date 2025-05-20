@@ -1,1 +1,1636 @@
-{"book": {"@filename": "ApocrEzek", "@title": "Apocryphon of Ezekiel", "@textStructure": "fragmentary", "version": [{"@title": "Panarion (Frag. 1)", "@author": "Epiphanius", "@language": "Greek", "@fragment": "1", "divisions": {"division": [{"@label": "Book", "@delimiter": "."}, {"@label": "Chapter", "@delimiter": "."}, {"@label": "Paragraph"}]}, "manuscripts": {"ms": {"@abbrev": "Holl", "@language": "Greek", "@show": "yes", "name": "Holl", "bibliography": null}}, "text": {"div": {"@number": "64", "div": {"@number": "70", "div": [{"@number": "5", "unit": {"@id": "1", "@group": "0", "@parallel": "", "reading": {"@option": "0", "@mss": "Holl ", "#text": "“Ἀναστήσονται γὰρ οἱ νεκροὶ καὶ ἐγερθήσονται οἱ ἐν τοῖς μνημείοις,” φησὶν ὁ προφήτης. ἵνα δὲ καὶ τὰ ὑπὸ τοῦ Ἰεζεκιὴλ τοῦ προφήτου ἐν τῷ ἰδίῳ ἀποκρύφῳ ῥηθέντα περὶ ἀναστάσεως μὴ παρασιωπήσω, καὶ αὐτὰ ἐνταῦθα παραθήσομαι. αἰνιγματωδῶς γὰρ διηγούμενος λέγει περὶ τῆς δικαίας κρίσεως ἧͺ κοινωνεῖ ψυχὴ καὶ σῶμα, ὅτι"}}}, {"@number": "6", "unit": {"@id": "2", "@group": "0", "@parallel": "", "reading": {"@option": "0", "@mss": "Holl ", "#text": "βασιλεύς τις ἐν τῇ αὐτοῦ βασιλείᾳ πάντας εἶχεν ἐστρατευμένους, παγανὸν δὲ οὐκ εἶχεν ἀλλ᾽ ἢ μόνον δύο, ἕνα χωλὸν καὶ ἕνα τυφλόν, καὶ ἕκαστος <αὐτῶν> κατ᾽ ἰδίαν ἐκαθέζετο καὶ κατ᾽ ἰδίαν ὤͺκει."}}}, {"@number": "7", "unit": {"@id": "3", "@group": "0", "@parallel": "", "reading": {"@option": "0", "@mss": "Holl ", "#text": "γάμους δὲ ποιήσας ὁ βασιλεὺς τῷ ἰδίῳ υἱῷ ἐκάλεσε πάντας τοὺς ἐν τῇ αὐτοῦ βασιλείᾳ, περιεφρόνησε δὲ τῶν δύο παγανῶν, τοῦ τε χωλοῦ καὶ τοῦ τυφλοῦ· οἱ δὲ ἠγανάκτησαν ἐν ἑαυτοῖς καὶ ἐπιβουλὴν ἐργάσασθαι τῷ βασιλεῖ ἐπενόουν."}}}, {"@number": "8", "unit": {"@id": "4", "@group": "0", "@parallel": "", "reading": {"@option": "0", "@mss": "Holl ", "#text": "παράδεισον δὲ εἶχεν ὁ βασιλεύς, καὶ ἀπὸ μήκοθεν ὁ τυφλὸς ἐλάλει τῷ χωλῷ λέγων “πόσον ἦν ἡμῶν τὸ κλάσμα τοῦ ἄρτου μετὰ τῶν ὄχλων τῶν κληθέντων εἰς τὴν εὐφρασίαν; δεῦρο τοίνυν, καθὼς ἐποίησεν ἡμῖν, ἀμυνώμεθα αὐτόν.”"}}}, {"@number": "9", "unit": {"@id": "5", "@group": "0", "@parallel": "", "reading": {"@option": "0", "@mss": "Holl ", "#text": "ὁ δὲ ἕτερος ἠρώτα “ποίῳ τρόπῳ”; ὁ δὲ εἶπεν “ἀπέλθωμεν εἰς τὸν παράδεισον αὐτοῦ καὶ ἀφανίσωμεν ἐκεῖ τὰ τοῦ παραδείσου.” ὁ δὲ εἶπεν “καὶ πῶς δύναμαι, χωλὸς ὢν καὶ μὴ δυνάμενος ἐπισαίνειν”; ὁ δὲ τυφλὸς ἔφη “αὐτὸς ἐγὼ δύναμαί τι πράττειν μὴ ὁρῶν ποῦ ἀπέρχομαι; ἀλλὰ τεχνασώμεθα.”"}}}, {"@number": "10", "unit": {"@id": "6", "@group": "0", "@parallel": "", "reading": {"@option": "0", "@mss": "Holl ", "#text": "τίλας χόρτον τὸν πλησίον καὶ πλέξας σχοινίον ἠκόντισε τῷ τυφλῷ καὶ εἶπεν “κράτει, καὶ δεῦρο πρὸς τὸ σχοινίον πρός με.” ὡς δὲ ἐποίησεν ὃ προετράπη, ὅτε ἔφθασε λέγει “δεῦρό μοι γενοῦ πόδες καὶ βάστασόν με, καὶ γίνομαί σοι ὀφθαλμοί, ἄνωθεν ὁδηγῶν σε δεξιὰ καὶ εὐώνυμα.”"}}}, {"@number": "11", "unit": {"@id": "7", "@group": "0", "@parallel": "", "reading": {"@option": "0", "@mss": "Holl ", "#text": "τοῦτο δὲ ποιήσαντες κατέβησαν εἰς τὸν παράδεισον· εἶτα λοιπὸν εἴτε ἠδίκησαν εἴτε καὶ οὐκ ἠδίκησαν, ὅμως τὰ ἴχνη πέφηνεν ἐν τῷ παραδείσῳ."}}}, {"@number": "12", "unit": {"@id": "8", "@group": "0", "@parallel": "", "reading": {"@option": "0", "@mss": "Holl ", "#text": "καταλύσαντες δὲ ἐκ τῶν γάμων οἱ εὐφρανθέντες καταβάντες εἰς τὸν παράδεισον ἐξεπλάγησαν τὰ ἴχνη εὑρόντες ἐν τῷ παραδείσῳ καὶ ταῦτα ἀνήγγειλαν τῷ βασιλεῖ, λέγοντες “ἅπαντες στρατιῶται ἐν τῇ βασιλείᾳ σου καὶ οὐδείς ἐστι παγανός. πόθεν τοίνυν ἴχνη παγανῶν ἐν τῷ παραδείσῳ”;"}}}, {"@number": "13", "unit": {"@id": "9", "@group": "0", "@parallel": "", "reading": {"@option": "0", "@mss": "Holl ", "#text": "ὁ δὲ ἐθαύμασε, [καὶ] ὡς μὲν ἡ παραβολὴ δηλονότι τοῦ ἀποκρύφου λέγει ὡς πρὸς τὸν ἄνθρωπον αἰνιττομένη, ὁ θεὸς δὲ οὐδὲν ἀγνοεῖ. ἡ δὲ διήγησις λέγει ὡς μετεστείλατο τὸν χωλὸν καὶ τὸν τυφλὸν καὶ ἠρώτησε τὸν τυφλόν “μὴ σὺ κατῆλθες εἰς τὸν παράδεισον”; ὁ δὲ ἔφη “οἴμοι, κύριε· ὁρᾷς ἡμῶν τὴν ἀδυναμίαν, οἶδας ὅτι <οὐχ> ὁρῶ ποῦ βαδίζω.”"}}}, {"@number": "14", "unit": {"@id": "10", "@group": "0", "@parallel": "", "reading": {"@option": "0", "@mss": "Holl ", "#text": "εἶτα ἐλθὼν ἐπὶ τὸν χωλὸν καὶ αὐτὸν ἠρώτα “σὺ κατῆλθες εἰς τὸν παράδεισόν μου”; ὁ δὲ ἀποκριθεὶς εἶπεν “ὦ κύριε, πικρᾶναί μου τὴν ψυχὴν ἐν τῷ μέρει τῆς ἀδυναμίας βούλει.” καὶ λοιπὸν ἡ κρίσις ἀργεῖ."}}}, {"@number": "15", "unit": {"@id": "11", "@group": "0", "@parallel": "", "reading": {"@option": "0", "@mss": "Holl ", "#text": "τί οὖν ποιεῖ ὁ κριτὴς ὁ δίκαιος; ἀναγνοὺς ποίῳ τρόπῳ ἀμφότεροι ἐζεύχθησαν ἐπιτίθησι τὸν χωλὸν τῷ πηρῷ καὶ τοὺς ἀμφοτέρους ἐτάζει μάστιξι, καὶ οὐ δύνανται ἀρνήσασθαι."}}}, {"@number": "16", "unit": {"@id": "12", "@group": "0", "@parallel": "", "reading": {"@option": "0", "@mss": "Holl ", "#text": "ἑκάτεροι ἀλλήλους ἐλέγχουσιν, ὁ μὲν χωλὸς λέγων τῷ τυφλῷ “οὐ σύ με ἐβάστασας καὶ ἀπήνεγκας”; καὶ ὁ τυφλὸς τῷ χωλῷ “οὐκ αὐτὸς ὀφθαλμοί μου γέγονας”;"}}}, {"@number": "17", "unit": {"@id": "13", "@group": "0", "@parallel": "", "reading": {"@option": "0", "@mss": "Holl ", "#text": "οὕτως τὸ σῶμα τῇ ψυχῇ καὶ ἡ ψυχὴ τῷ σώματι εἰς ἔλεγχον τῆς κοινῆς ἐργασίας συνάπτεται, καὶ ἡ κρίσις τελεία γίνεται περὶ ἀμφοτέρων, σώματός τε καὶ ψυχῆς, τῶν ἔργων [τῶν] γεγενημένων εἴτε ἀγαθῶν εἴτε φαύλων."}}}]}}}}, {"@title": "To the Romans", "@author": "Clement of Rome", "@language": "Greek", "@fragment": "2", "divisions": {"division": [{"@label": "Chapter", "@delimiter": "."}, {"@label": "Verse"}]}, "manuscripts": {"ms": {"@abbrev": "Jaubert", "@language": "Greek", "@show": "yes", "name": "Jaubert", "bibliography": null}}, "text": {"div": {"@number": "8", "div": {"@number": "3", "unit": {"@id": "14", "@group": "0", "@parallel": "", "reading": {"@option": "0", "@mss": "Jaubert ", "#text": "“Μετανοήσατε, οἶκος Ἰσραήλ, ἀπὸ τῆς ἀνομίας ὑμῶν· εἶπον τοῖς υἱοῖς τοῦ λαοῦ μου· Ἐὰν ὦσιν αἱ ἁμαρτίαι ὑμῶν ἀπὸ τῆς γῆς ἕως τοῦ οὐρανοῦ καὶ ἐὰν ὦσιν πυρρότεραι κόκκου καὶ μελανώτεραι σάκκου, καὶ ἐπιστραφῆτε πρός με ἐξ ὅλης τῆς καρδίας καὶ εἴπητε· Πάτερ· ἐπακούσομαι ὑμῶν ὡς λαοῦ ἁγίου.”"}}}}}}, {"@title": "Paedagogus", "@author": "Clement of Alexandria", "@language": "Greek", "@fragment": "2", "divisions": {"division": [{"@label": "Book", "@delimiter": "."}, {"@label": "Section", "@delimiter": "."}, {"@label": "Chapter", "@delimiter": "."}, {"@label": "Paragraph"}]}, "manuscripts": {"ms": {"@abbrev": "Stählin-Treu", "@language": "Greek", "@show": "yes", "name": "Stählin-Treu", "bibliography": null}}, "text": {"div": {"@number": "1", "div": {"@number": "10", "div": {"@number": "91", "div": {"@number": "2", "unit": {"@id": "15", "@group": "0", "@parallel": "", "reading": {"@option": "0", "@mss": "Stählin-Treu ", "#text": "φησὶ γὰρ δι’ Ἰεζεκιήλ· “ἐὰν ἐπιστραφῆτε ἐξ ὅλης τῆς καρδίας καὶ εἴπητε· πάτερ, ἀκούσομαι ὑμῶν ὥσπερ λαοῦ ἁγίου.”"}}}}}}}}, {"@title": "Quis dives salvetur", "@author": "Clement of Alexandria", "@language": "Greek", "@fragment": "2", "divisions": {"division": [{"@label": "Chapter", "@delimiter": "."}, {"@label": "Paragraph"}]}, "manuscripts": {"ms": {"@abbrev": "Stählin-Früchtel", "@language": "Greek", "@show": "yes", "name": "Stählin-Früchtel", "bibliography": null}}, "text": {"div": {"@number": "39", "div": {"@number": "4", "unit": {"@id": "16", "@group": "0", "@parallel": "", "reading": {"@option": "0", "@mss": "Stählin-Früchtel ", "#text": "διὸ καὶ κέκραγεν· “ἔλεον θέλω καὶ οὐ θυσίαν· οὐ βούλομαι τὸν θάνατον τοῦ ἁμαρτωλοῦ, ἀλλὰ τὴν μετάνοιαν· κἂν ὦσιν αἱ ἁμαρτίαι ὑμῶν ὡς φοινικοῦν ἔριον, ὡς χιόνα λευκανῶ, κἂν μελάντερον τοῦ σκότους, ὡς ἔριον λευκὸν ἐκνίψας ποιήσω.”"}}}}}}, {"@title": "Stromata", "@author": "Clement of Alexandria", "@fragment": "2", "@language": "Greek", "divisions": {"division": [{"@label": "Book", "@delimiter": "."}, {"@label": "Section", "@delimiter": "."}, {"@label": "Chapter", "@delimiter": "."}, {"@label": "Paragraph"}]}, "manuscripts": {"ms": {"@abbrev": "Stählin-Früchtel", "@language": "Greek", "@show": "yes", "name": "Craig A. Evans", "bibliography": null}}, "text": {"div": {"@number": "7", "div": {"@number": "16", "div": {"@number": "94", "div": {"@number": "2", "unit": {"@id": "17", "@group": "0", "@parallel": "", "reading": {"@option": "0", "@mss": "Stählin-Früchtel ", "#text": "“τέτοκεν καὶ οὐ τέτοκεν,” φησὶν ἡ γραφή . . ."}}}}}}}}, {"@title": "Panarion (Frag. 3)", "@author": "Epiphanius", "@fragment": "3", "@language": "Greek", "divisions": {"division": [{"@label": "Book", "@Delimiter": "."}, {"@label": "Chapter", "@Delimiter": "."}, {"@label": "Line"}]}, "manuscripts": {"ms": {"@abbrev": "Holl", "@language": "Greek", "@show": "yes", "name": "Holl", "bibliography": null}}, "text": {"div": {"@number": "30", "div": {"@number": "30", "div": {"@number": "3", "unit": {"@id": "24", "@group": "0", "@parallel": "", "reading": {"@option": "0", "@mss": "Holl ", "#text": "καὶ πάλιν ἐν ἑτέρῳ τόπῳ λέγει “καὶ τέξεται ἡ δάμαλις καὶ ἐροῦσιν, οὐ τέτοκεν.”"}}}}}}}, {"@title": "Acts of Peter", "@author": "Anonymous", "@fragment": "3", "@language": "Latin", "divisions": {"division": {"@label": "Paragraph"}}, "manuscripts": {"ms": {"@abbrev": "Lipsius-Bonnet", "@language": "Greek", "@show": "yes", "name": "Lipsius-Bonnet", "bibliography": null}}, "text": {"div": {"@number": "24", "unit": {"@id": "18", "@group": "0", "@parallel": "", "reading": {"@option": "0", "@mss": "Lipsius-Bonnet ", "#text": ". . . et iterum dicit: “Peperit et non peperit.”"}}}}}, {"@title": "De carne Christi", "@author": "Tertullian", "@fragment": "3", "@language": "Latin", "divisions": {"division": [{"@label": "Chapter", "@Delimiter": "."}, {"@label": "Line"}]}, "manuscripts": {"ms": {"@abbrev": "Evans", "@language": "Greek", "@show": "yes", "name": "Ernest Evans", "bibliography": null}}, "text": {"div": {"@number": "23", "div": [{"@number": "7", "unit": {"@id": "19", "@group": "0", "@parallel": "", "reading": {"@option": "0", "@mss": "Evans ", "#text": "Agnoscimus ergo signum contradicibile conceptum et partum virginis Mariae, de"}}}, {"@number": "8", "unit": {"@id": "20", "@group": "0", "@parallel": "", "reading": {"@option": "0", "@mss": "Evans ", "#text": "quo Academici isti, “Peperit et non peperit virgo et non virgo.”"}}}, {"@number": "27", "unit": {"@id": "21", "@group": "0", "@parallel": "", "reading": {"@option": "0", "@mss": "Evans ", "#text": ". . ."}}}, {"@number": "28", "unit": {"@id": "22", "@group": "0", "@parallel": "", "reading": {"@option": "0", "@mss": "Evans ", "#text": "Legimus quidem apud Ezechielem de vacca"}}}, {"@number": "29", "unit": {"@id": "23", "@group": "0", "@parallel": "", "reading": {"@option": "0", "@mss": "Evans ", "#text": "illa, quae peperit et non peperit."}}}]}}}, {"@title": "Against the Jews", "@author": "Gregory of Nyssa", "@language": "Greek", "@fragment": "3", "divisions": {"division": [{"@label": "Chapter", "@Delimiter": "."}, {"@label": "Paragraph"}]}, "manuscripts": {"ms": {"@abbrev": "Migne", "@language": "Greek", "@show": "yes", "name": "Migne", "bibliography": null}}, "text": {"div": {"@number": "3", "div": {"@number": "16", "unit": {"@id": "25", "@group": "0", "@parallel": "", "reading": {"@option": "0", "@mss": "Migne ", "#text": "Καὶ πάλιν, “Ἰδοὺ ἡ δάμαλις τέτοκε, καὶ οὐ τέτοκε.” Τοῦτο δὲ δηλοῖ τὴν Παρθένον."}}}}}}, {"@title": "Dialogue with Trypho", "@author": "Justin Martyr", "@fragment": "4", "@language": "Greek", "divisions": {"division": [{"@label": "Chapter", "@Delimiter": "."}, {"@label": "Paragraph"}]}, "manuscripts": {"ms": {"@abbrev": "Goodspeed", "@language": "Greek", "@show": "yes", "name": "Goodspeed", "bibliography": null}}, "text": {"div": {"@number": "47", "div": {"@number": "5", "unit": {"@id": "26", "@group": "0", "@parallel": "", "reading": {"@option": "0", "@mss": "Goodspeed ", "#text": "ἡ γὰρ χρηστότης καὶ ἡ φιλανθρωπία τοῦ θεοῦ καὶ τὸ ἄμετρον τοῦ πλούτου αὐτοῦ τὸν μετανοοῦντα ἀπὸ τῶν ἁμαρτημάτων, ὡς δι᾽ Ἰεζεκιὴλ μηνύει, ὡς δίκαιον καὶ ἀναμάρτητον ἔχει· καὶ τὸν ἀπὸ εὐσεβείας ἢ δικαιοπραξίας μετατιθέμενον ἐπὶ ἀδικίαν καὶ ἀθεότητα ὡς ἁμαρτωλὸν καὶ ἄδικον καὶ ἀσεβῆ ἐπίσταται. διὸ καὶ ὁ ἡμέτερος κύριος Ἰησοῦς Χριστὸς εἶπεν· Ἐν οἷς ἂν ὑμᾶς καταλάβω, ἐν τούτοις καὶ κρινῶ."}}}}}}, {"@title": "Quis dives salvetur (Frag. 4)", "@author": "Clement of Alexandria", "@fragment": "4", "@language": "Greek", "divisions": {"division": [{"@label": "Chapter", "@Delimiter": "."}, {"@label": "Paragraph"}]}, "manuscripts": {"ms": {"@abbrev": "Stählin-Früchtel", "@language": "Greek", "@show": "yes", "name": "Stählin-Früchtel", "bibliography": null}}, "text": {"div": {"@number": "40", "div": {"@number": "2", "unit": {"@id": "27", "@group": "0", "@parallel": "", "reading": {"@option": "0", "@mss": "Stählin-Früchtel ", "#text": "“ἐφ’ οἷς γὰρ ἂν εὕρω ὑμᾶς,” φησίν, “ἐπὶ τούτοις καὶ κρινῶ·”"}}}}}}, {"@title": "Paedagogus (Frag. 5)", "@author": "Clement of Alexandria", "@fragment": "5", "@language": "Greek", "divisions": {"division": [{"@label": "Book", "@Delimiter": "."}, {"@label": "Section", "@Delimiter": "."}, {"@label": "Chapter", "@Delimiter": "."}, {"@label": "Paragraph"}]}, "manuscripts": {"ms": {"@abbrev": "Stählin-Treu", "@language": "Greek", "@show": "yes", "name": "Stählin-Treu", "bibliography": null}}, "text": {"div": {"@number": "1", "div": {"@number": "9", "div": {"@number": "84", "div": [{"@number": "2", "unit": {"@id": "28", "@group": "0", "@parallel": "", "reading": {"@option": "0", "@mss": "Stählin-Treu ", "#text": "Φησὶν γοῦν διὰ Ἰεζεκιὴλ πρὸς τοὺς πρεσβυτέρους ἀποταθεὶς καί τινα αὐτοῖς σωτήριον παρατιθέμενος εὐλόγου φροντίδος ὑπογραμμόν· “καὶ τὸ χωλὸν καταδήσω καὶ τὸ ὀχλούμενον ἰάσομαι καὶ τὸ πλανώμενον ἐπιστρέψω καὶ βοσκήσω αὐτοὺς ἐγὼ εἰς τὸ ὄρος τὸ ἅγιόν μου.” ταῦτ᾽ ἐστὶν ἀγαθοῦ ποιμένος ἐπαγγέλματα· βόσκησον ἡμᾶς τοὺς νηπίους ὡς πρόβατα."}}}, {"@number": "3", "unit": {"@id": "29", "@group": "0", "@parallel": "", "reading": {"@option": "0", "@mss": "Stählin-Treu ", "#text": "Ναί, δέσποτα, τῆς σῆς πλήρωσον νομῆς, τῆς δικαιοσύνης· ναί, παιδαγωγέ, ποίμανον ἡμᾶς εἰς τὸ ἅγιόν σου ὄρος, πρὸς τὴν ἐκκλησίαν, τὴν ὑψωμένην, τὴν ὑπερνεφῆ, τὴν ἁπτομένην οὐρανῶν. “Καὶ ἔσομαι,” φησίν, “αὐτῶν ποιμὴν καὶ ἔσομαι ἐγγὺς αὐτῶν” ὡς ὁ χιτὼν τοῦ χρωτὸς αὐτῶν·"}}}]}}}}}, {"@title": "Pap. Chester Beatty XII", "@author": "Anonymous", "@fragment": "5", "@language": "Greek", "divisions": {"division": [{"@label": "Fragment", "@Delimiter": "."}, {"@label": "Side", "@Delimiter": "."}]}, "manuscripts": {"ms": {"@abbrev": "Bonner", "@language": "Greek", "@show": "yes", "name": "Bonner", "bibliography": null}}, "text": {"div": [{"@number": "frag. 1", "@fragment": "5", "div": [{"@number": "recto", "unit": [{"@id": "30", "@group": "0", "@parallel": "", "reading": {"@option": "0", "@mss": "Bonner ", "@linebreak": "following", "#text": "[ . . . ] ε̣γυπτ[ιω]ν αγαλ̣[λιασομαι δε ε"}}, {"@id": "31", "@group": "0", "@parallel": "", "reading": {"@option": "0", "@mss": "Bonner ", "@linebreak": "following", "#text": "[γω εν] α̣υτοις εαν̣ ερουσ̣[ιν πατερ ακου"}}, {"@id": "32", "@group": "0", "@parallel": "", "reading": {"@option": "0", "@mss": "Bonner ", "@linebreak": "following", "#text": "[σθη]σεται και εσοντ[αι μετα εμου"}}, {"@id": "33", "@group": "0", "@parallel": "", "reading": {"@option": "0", "@mss": "Bonner ", "@linebreak": "following", "#text": "[επι γ]η̣ς ζωης ω ιημ ε̣[ιπον προς τον κ̅ν̅"}}, {"@id": "34", "@group": "0", "@parallel": "", "reading": {"@option": "0", "@mss": "Bonner ", "@linebreak": "following", "#text": "[κ̅ε̅ μ]η με ελλεγ’ξης τ̣[ω θυμω σου μη"}}, {"@id": "35", "@group": "0", "@parallel": "", "reading": {"@option": "0", "@mss": "Bonner ", "@linebreak": "following", "#text": "[δε π]εδευσης με εν τη[ οργη σου δοκι"}}, {"@id": "36", "@group": "0", "@parallel": "", "reading": {"@option": "0", "@mss": "Bonner ", "@linebreak": "following", "#text": "[μαζο]μαι εως των νεφ[ρων μου δια"}}, {"@id": "37", "@group": "0", "@parallel": "", "reading": {"@option": "0", "@mss": "Bonner ", "@linebreak": "following", "#text": "[λελ]υμαι εως της κοιλ̣[ιας μου δος"}}, {"@id": "38", "@group": "0", "@parallel": "", "reading": {"@option": "0", "@mss": "Bonner ", "@linebreak": "following", "#text": "[μοι το] ελεος σου εις εφημ[ερον ως ελεη"}}, {"@id": "39", "@group": "0", "@parallel": "", "reading": {"@option": "0", "@mss": "Bonner ", "@linebreak": "following", "#text": "[σας α]β̣ρααμ’ τον πατερα ημ̣[ων και ι"}}, {"@id": "40", "@group": "0", "@parallel": "", "reading": {"@option": "0", "@mss": "Bonner ", "@linebreak": "following", "#text": "[σακ’ κα]ι ιακωβ’ αλλα σε τον κ̅ν̣̅ [τον"}}, {"@id": "41", "@group": "0", "@parallel": "", "reading": {"@option": "0", "@mss": "Bonner ", "@linebreak": "following", "#text": "[θ̅ν̅ η]μ̣ων εγνωκαμεν και . ["}}, {"@id": "42", "@group": "0", "@parallel": "", "reading": {"@option": "0", "@mss": "Bonner ", "@linebreak": "following", "#text": "]ε̣νεσι και εγεννηθη["}}, {"@id": "43", "@group": "0", "@parallel": "", "reading": {"@option": "0", "@mss": "Bonner ", "@linebreak": "following", "#text": "απο]καθημενης μεμ̣["}}, {"@id": "44", "@group": "0", "@parallel": "", "reading": {"@option": "0", "@mss": "Bonner ", "@linebreak": "following", "#text": "]ς εβδελοιχθημε̣[ν"}}, {"@id": "45", "@group": "0", "@parallel": "", "reading": {"@option": "0", "@mss": "Bonner ", "@linebreak": "following", "#text": "]τ̣ο ονομα απ["}}, {"@id": "46", "@group": "0", "@parallel": "", "reading": {"@option": "0", "@mss": "Bonner ", "@linebreak": "following", "#text": "]μενω . ["}}, {"@id": "47", "@group": "0", "@parallel": "", "reading": {"@option": "0", "@mss": "Bonner ", "@linebreak": "following", "#text": "]π̣λατεια . ["}}]}, {"@number": "verso", "unit": [{"@id": "48", "@group": "0", "@parallel": "", "reading": {"@option": "0", "@mss": "Bonner ", "@linebreak": "both", "#text": "[το πλανωμενο]ν̣ ου̣κ̣ επ̣[εσ]τρεψ[ατε και"}}, {"@id": "49", "@group": "0", "@parallel": "", "reading": {"@option": "0", "@mss": "Bonner ", "@linebreak": "following", "#text": "[το ενοχλουμενο]ν ουκ εθ̣[ε]ραπ[ευσατε"}}, {"@id": "50", "@group": "0", "@parallel": "", "reading": {"@option": "0", "@mss": "Bonner ", "@linebreak": "following", "#text": "[και ποιειτε τον] λαον μου πλαν[ασθαι α"}}, {"@id": "51", "@group": "0", "@parallel": "", "reading": {"@option": "0", "@mss": "Bonner ", "@linebreak": "following", "#text": "[πο νομης της] κ̣αλης και πορευ[εσθαι εις"}}, {"@id": "52", "@group": "0", "@parallel": "", "reading": {"@option": "0", "@mss": "Bonner ", "@linebreak": "following", "#text": "[τριβολους κ]αι ακανθας αντι χ̣[ορτου"}}, {"@id": "53", "@group": "0", "@parallel": "", "reading": {"@option": "0", "@mss": "Bonner ", "@linebreak": "following", "#text": "[και ουκ ετηρη]σατε την εμην εν̣[τολην"}}, {"@id": "54", "@group": "0", "@parallel": "", "reading": {"@option": "0", "@mss": "Bonner ", "@linebreak": "following", "#text": "[αλλα πας πυμη]ν εξ υμων ανεω[ξε το στο"}}, {"@id": "55", "@group": "0", "@parallel": "", "reading": {"@option": "0", "@mss": "Bonner ", "@linebreak": "following", "#text": "[μα και πολλ]ο̣ι εις καταβρωμα α̣[υτοις ε"}}, {"@id": "56", "@group": "0", "@parallel": "", "reading": {"@option": "0", "@mss": "Bonner ", "@linebreak": "following", "#text": "[γενοντο αλ]λ̣α ειδου εγω διακριν[ω κριον"}}, {"@id": "57", "@group": "0", "@parallel": "", "reading": {"@option": "0", "@mss": "Bonner ", "@linebreak": "following", "#text": "[προς κριον] και μοσχον προς μοσχ[ον και"}}, {"@id": "58", "@group": "0", "@parallel": "", "reading": {"@option": "0", "@mss": "Bonner ", "@linebreak": "following", "#text": "[το χωλο]ν̣ κατε̣δησω και το ενο[χλουμε"}}, {"@id": "59", "@group": "0", "@parallel": "", "reading": {"@option": "0", "@mss": "Bonner ", "@linebreak": "following", "#text": "[νον ια]σ̣ομαι και το πλανομε̣[νον επι"}}, {"@id": "60", "@group": "0", "@parallel": "", "reading": {"@option": "0", "@mss": "Bonner ", "@linebreak": "following", "#text": "[στρεψω κ]αι βοσκησω αυτου̣[ς εγω και ανα"}}, {"@id": "61", "@group": "0", "@parallel": "", "reading": {"@option": "0", "@mss": "Bonner ", "@linebreak": "following", "#text": "[παυσω ε]πι το ορος το αγιον [μου και ε"}}, {"@id": "62", "@group": "0", "@parallel": "", "reading": {"@option": "0", "@mss": "Bonner ", "@linebreak": "following", "#text": "[σομαι αυ]τοις πυμην κ[αι εσομαι εγγυς"}}, {"@id": "63", "@group": "0", "@parallel": "", "reading": {"@option": "0", "@mss": "Bonner ", "@linebreak": "following", "#text": "[αυτων ως ο χ]ιτων του χρ̣[ωτος αυτων και"}}, {"@id": "64", "@group": "0", "@parallel": "", "reading": {"@option": "0", "@mss": "Bonner ", "@linebreak": "following", "#text": "[επικαλεσ]ονται με̣ [και ερω ιδου παρει"}}, {"@id": "65", "@group": "0", "@parallel": "", "reading": {"@option": "0", "@mss": "Bonner ", "@linebreak": "following", "#text": "[μι εαν διαβαι]ν̣ω̣σιν ο̣[υκ ολισθησου"}}, {"@id": "66", "@group": "0", "@parallel": "", "reading": {"@option": "0", "@mss": "Bonner ", "@linebreak": "following", "#text": "[σιν λεγει κ̅ς̅] εκ̣ο["}}]}]}, {"@number": "frag. 2", "div": [{"@number": "recto", "unit": [{"@id": "67", "@group": "0", "@parallel": "", "reading": {"@option": "0", "@mss": "Bonner ", "@linebreak": "both", "#text": "]α̣νισ . ["}}, {"@id": "68", "@group": "0", "@parallel": "", "reading": {"@option": "0", "@mss": "Bonner ", "@linebreak": "following", "#text": "]πυρος β  ̣[. . . .] . [ . ] . ["}}, {"@id": "69", "@group": "0", "@parallel": "", "reading": {"@option": "0", "@mss": "Bonner ", "@linebreak": "following", "#text": "]ε̣ι εκ’μειαινοντ[ες"}}, {"@id": "70", "@group": "0", "@parallel": "", "reading": {"@option": "0", "@mss": "Bonner ", "@linebreak": "following", "#text": "]ε̣τι προσεβαινον τη̣["}}, {"@id": "71", "@group": "0", "@parallel": "", "reading": {"@option": "0", "@mss": "Bonner ", "@linebreak": "following", "#text": "πρεσ]βυτας αδυναμουν[τας"}}, {"@id": "72", "@group": "0", "@parallel": "", "reading": {"@option": "0", "@mss": "Bonner ", "@linebreak": "following", "#text": "ε]πι τα ϋψηλα και π . . ["}}, {"@id": "73", "@group": "0", "@parallel": "", "reading": {"@option": "0", "@mss": "Bonner ", "@linebreak": "following", "#text": "]δια το οδαγους μη ε[χειν"}}, {"@id": "74", "@group": "0", "@parallel": "", "reading": {"@option": "0", "@mss": "Bonner ", "@linebreak": "following", "#text": "]ε̣ο̣ς̣ εισιν οι της φων[ης"}}, {"@id": "75", "@group": "0", "@parallel": "", "reading": {"@option": "0", "@mss": "Bonner ", "@linebreak": "following", "#text": "] . . [ . ] ανεβλεψα δε κ["}}, {"@id": "76", "@group": "0", "@parallel": "", "reading": {"@option": "0", "@mss": "Bonner ", "@linebreak": "following", "#text": "] . ου κρεμαμενου . ["}}, {"@id": "77", "@group": "0", "@parallel": "", "reading": {"@option": "0", "@mss": "Bonner ", "@linebreak": "following", "#text": "]ανου καθιπταμ̣["}}, {"@id": "78", "@group": "0", "@parallel": "", "reading": {"@option": "0", "@mss": "Bonner ", "@linebreak": "following", "#text": "]υ̣τον και ειπ̣[α"}}]}, {"@number": "verso", "unit": [{"@id": "79", "@group": "0", "@parallel": "", "reading": {"@option": "0", "@mss": "Bonner ", "@linebreak": "both", "#text": "] . . . ["}}, {"@id": "80", "@group": "0", "@parallel": "", "reading": {"@option": "0", "@mss": "Bonner ", "@linebreak": "following", "#text": "] . ε . [ . . . . ] . [ . ] ως ο κ["}}, {"@id": "81", "@group": "0", "@parallel": "", "reading": {"@option": "0", "@mss": "Bonner ", "@linebreak": "following", "#text": "]ιν π .[ . ]. . ληθην["}}, {"@id": "82", "@group": "0", "@parallel": "", "reading": {"@option": "0", "@mss": "Bonner ", "@linebreak": "following", "#text": "ε]στιν τω δεδουλευ[μενω"}}, {"@id": "83", "@group": "0", "@parallel": "", "reading": {"@option": "0", "@mss": "Bonner ", "@linebreak": "following", "#text": "] . καρδια καθαρα κα̣[ι"}}, {"@id": "84", "@group": "0", "@parallel": "", "reading": {"@option": "0", "@mss": "Bonner ", "@linebreak": "following", "#text": "].ται επι κ̅ν̅ τον θ̅ν̅["}}, {"@id": "85", "@group": "0", "@parallel": "", "reading": {"@option": "0", "@mss": "Bonner ", "@linebreak": "following", "#text": "]αι τα συντετριμ’με̣[να"}}, {"@id": "86", "@group": "0", "@parallel": "", "reading": {"@option": "0", "@mss": "Bonner ", "@linebreak": "following", "#text": "]οι ϋμας και στησε[ται"}}, {"@id": "87", "@group": "0", "@parallel": "", "reading": {"@option": "0", "@mss": "Bonner ", "@linebreak": "following", "#text": "]μετα παντος του . ["}}, {"@id": "88", "@group": "0", "@parallel": "", "reading": {"@option": "0", "@mss": "Bonner ", "@linebreak": "following", "#text": "ε]ρ̣ημωμενην ϋπο["}}, {"@id": "89", "@group": "0", "@parallel": "", "reading": {"@option": "0", "@mss": "Bonner ", "@linebreak": "following", "#text": "] . ησθησεται αυτ["}}, {"@id": "90", "@group": "0", "@parallel": "", "reading": {"@option": "0", "@mss": "Bonner ", "@linebreak": "following", "#text": "] . λις και . . . ["}}, {"@id": "91", "@group": "0", "@parallel": "", "reading": {"@option": "0", "@mss": "Bonner ", "@linebreak": "following", "#text": "]ον . ["}}]}]}, {"@number": "frag. 3", "div": [{"@number": "recto", "unit": [{"@id": "92", "@group": "0", "@parallel": "", "reading": {"@option": "0", "@mss": "Bonner ", "@linebreak": "both", "#text": "]ι νυν υμ . ["}}, {"@id": "93", "@group": "0", "@parallel": "", "reading": {"@option": "0", "@mss": "Bonner ", "@linebreak": "following", "#text": "]ται απο του ν̣["}}, {"@id": "94", "@group": "0", "@parallel": "", "reading": {"@option": "0", "@mss": "Bonner ", "@linebreak": "following", "#text": "μο]χ̣θηρων και̣["}}]}, {"@number": "verso", "unit": [{"@id": "95", "@group": "0", "@parallel": "", "reading": {"@option": "0", "@mss": "Bonner ", "@linebreak": "both", "#text": "]. χωρας .["}}, {"@id": "96", "@group": "0", "@parallel": "", "reading": {"@option": "0", "@mss": "Bonner ", "@linebreak": "following", "#text": "]η̣ς καλυπ["}}, {"@id": "97", "@group": "0", "@parallel": "", "reading": {"@option": "0", "@mss": "Bonner ", "@linebreak": "following", "#text": "]γεινεται ε["}}]}]}]}}]}}
+{
+  "book": {
+    "@filename": "ApocrEzek",
+    "@title": "Apocryphon of Ezekiel",
+    "@textStructure": "fragmentary",
+    "version": [
+      {
+        "@title": "Panarion (Frag. 1)",
+        "@author": "Epiphanius",
+        "@language": "Greek",
+        "@fragment": "1",
+        "divisions": {
+          "division": [
+            {
+              "@label": "Book",
+              "@delimiter": "."
+            },
+            {
+              "@label": "Chapter",
+              "@delimiter": "."
+            },
+            {
+              "@label": "Paragraph"
+            }
+          ]
+        },
+        "manuscripts": {
+          "ms": {
+            "@abbrev": "Holl",
+            "@language": "Greek",
+            "@show": "yes",
+            "name": "Holl",
+            "bibliography": null
+          }
+        },
+        "text": {
+          "div": {
+            "@number": "64",
+            "div": {
+              "@number": "70",
+              "div": [
+                {
+                  "@number": "5",
+                  "unit": {
+                    "@id": "1",
+                    "@group": "0",
+                    "@parallel": "",
+                    "reading": {
+                      "@option": "0",
+                      "@mss": "Holl ",
+                      "#text": "“Ἀναστήσονται γὰρ οἱ νεκροὶ καὶ ἐγερθήσονται οἱ ἐν τοῖς μνημείοις,” φησὶν ὁ προφήτης. ἵνα δὲ καὶ τὰ ὑπὸ τοῦ Ἰεζεκιὴλ τοῦ προφήτου ἐν τῷ ἰδίῳ ἀποκρύφῳ ῥηθέντα περὶ ἀναστάσεως μὴ παρασιωπήσω, καὶ αὐτὰ ἐνταῦθα παραθήσομαι. αἰνιγματωδῶς γὰρ διηγούμενος λέγει περὶ τῆς δικαίας κρίσεως ἧͺ κοινωνεῖ ψυχὴ καὶ σῶμα, ὅτι"
+                    }
+                  }
+                },
+                {
+                  "@number": "6",
+                  "unit": {
+                    "@id": "2",
+                    "@group": "0",
+                    "@parallel": "",
+                    "reading": {
+                      "@option": "0",
+                      "@mss": "Holl ",
+                      "#text": "βασιλεύς τις ἐν τῇ αὐτοῦ βασιλείᾳ πάντας εἶχεν ἐστρατευμένους, παγανὸν δὲ οὐκ εἶχεν ἀλλ᾽ ἢ μόνον δύο, ἕνα χωλὸν καὶ ἕνα τυφλόν, καὶ ἕκαστος <αὐτῶν> κατ᾽ ἰδίαν ἐκαθέζετο καὶ κατ᾽ ἰδίαν ὤͺκει."
+                    }
+                  }
+                },
+                {
+                  "@number": "7",
+                  "unit": {
+                    "@id": "3",
+                    "@group": "0",
+                    "@parallel": "",
+                    "reading": {
+                      "@option": "0",
+                      "@mss": "Holl ",
+                      "#text": "γάμους δὲ ποιήσας ὁ βασιλεὺς τῷ ἰδίῳ υἱῷ ἐκάλεσε πάντας τοὺς ἐν τῇ αὐτοῦ βασιλείᾳ, περιεφρόνησε δὲ τῶν δύο παγανῶν, τοῦ τε χωλοῦ καὶ τοῦ τυφλοῦ· οἱ δὲ ἠγανάκτησαν ἐν ἑαυτοῖς καὶ ἐπιβουλὴν ἐργάσασθαι τῷ βασιλεῖ ἐπενόουν."
+                    }
+                  }
+                },
+                {
+                  "@number": "8",
+                  "unit": {
+                    "@id": "4",
+                    "@group": "0",
+                    "@parallel": "",
+                    "reading": {
+                      "@option": "0",
+                      "@mss": "Holl ",
+                      "#text": "παράδεισον δὲ εἶχεν ὁ βασιλεύς, καὶ ἀπὸ μήκοθεν ὁ τυφλὸς ἐλάλει τῷ χωλῷ λέγων “πόσον ἦν ἡμῶν τὸ κλάσμα τοῦ ἄρτου μετὰ τῶν ὄχλων τῶν κληθέντων εἰς τὴν εὐφρασίαν; δεῦρο τοίνυν, καθὼς ἐποίησεν ἡμῖν, ἀμυνώμεθα αὐτόν.”"
+                    }
+                  }
+                },
+                {
+                  "@number": "9",
+                  "unit": {
+                    "@id": "5",
+                    "@group": "0",
+                    "@parallel": "",
+                    "reading": {
+                      "@option": "0",
+                      "@mss": "Holl ",
+                      "#text": "ὁ δὲ ἕτερος ἠρώτα “ποίῳ τρόπῳ”; ὁ δὲ εἶπεν “ἀπέλθωμεν εἰς τὸν παράδεισον αὐτοῦ καὶ ἀφανίσωμεν ἐκεῖ τὰ τοῦ παραδείσου.” ὁ δὲ εἶπεν “καὶ πῶς δύναμαι, χωλὸς ὢν καὶ μὴ δυνάμενος ἐπισαίνειν”; ὁ δὲ τυφλὸς ἔφη “αὐτὸς ἐγὼ δύναμαί τι πράττειν μὴ ὁρῶν ποῦ ἀπέρχομαι; ἀλλὰ τεχνασώμεθα.”"
+                    }
+                  }
+                },
+                {
+                  "@number": "10",
+                  "unit": {
+                    "@id": "6",
+                    "@group": "0",
+                    "@parallel": "",
+                    "reading": {
+                      "@option": "0",
+                      "@mss": "Holl ",
+                      "#text": "τίλας χόρτον τὸν πλησίον καὶ πλέξας σχοινίον ἠκόντισε τῷ τυφλῷ καὶ εἶπεν “κράτει, καὶ δεῦρο πρὸς τὸ σχοινίον πρός με.” ὡς δὲ ἐποίησεν ὃ προετράπη, ὅτε ἔφθασε λέγει “δεῦρό μοι γενοῦ πόδες καὶ βάστασόν με, καὶ γίνομαί σοι ὀφθαλμοί, ἄνωθεν ὁδηγῶν σε δεξιὰ καὶ εὐώνυμα.”"
+                    }
+                  }
+                },
+                {
+                  "@number": "11",
+                  "unit": {
+                    "@id": "7",
+                    "@group": "0",
+                    "@parallel": "",
+                    "reading": {
+                      "@option": "0",
+                      "@mss": "Holl ",
+                      "#text": "τοῦτο δὲ ποιήσαντες κατέβησαν εἰς τὸν παράδεισον· εἶτα λοιπὸν εἴτε ἠδίκησαν εἴτε καὶ οὐκ ἠδίκησαν, ὅμως τὰ ἴχνη πέφηνεν ἐν τῷ παραδείσῳ."
+                    }
+                  }
+                },
+                {
+                  "@number": "12",
+                  "unit": {
+                    "@id": "8",
+                    "@group": "0",
+                    "@parallel": "",
+                    "reading": {
+                      "@option": "0",
+                      "@mss": "Holl ",
+                      "#text": "καταλύσαντες δὲ ἐκ τῶν γάμων οἱ εὐφρανθέντες καταβάντες εἰς τὸν παράδεισον ἐξεπλάγησαν τὰ ἴχνη εὑρόντες ἐν τῷ παραδείσῳ καὶ ταῦτα ἀνήγγειλαν τῷ βασιλεῖ, λέγοντες “ἅπαντες στρατιῶται ἐν τῇ βασιλείᾳ σου καὶ οὐδείς ἐστι παγανός. πόθεν τοίνυν ἴχνη παγανῶν ἐν τῷ παραδείσῳ”;"
+                    }
+                  }
+                },
+                {
+                  "@number": "13",
+                  "unit": {
+                    "@id": "9",
+                    "@group": "0",
+                    "@parallel": "",
+                    "reading": {
+                      "@option": "0",
+                      "@mss": "Holl ",
+                      "#text": "ὁ δὲ ἐθαύμασε, [καὶ] ὡς μὲν ἡ παραβολὴ δηλονότι τοῦ ἀποκρύφου λέγει ὡς πρὸς τὸν ἄνθρωπον αἰνιττομένη, ὁ θεὸς δὲ οὐδὲν ἀγνοεῖ. ἡ δὲ διήγησις λέγει ὡς μετεστείλατο τὸν χωλὸν καὶ τὸν τυφλὸν καὶ ἠρώτησε τὸν τυφλόν “μὴ σὺ κατῆλθες εἰς τὸν παράδεισον”; ὁ δὲ ἔφη “οἴμοι, κύριε· ὁρᾷς ἡμῶν τὴν ἀδυναμίαν, οἶδας ὅτι <οὐχ> ὁρῶ ποῦ βαδίζω.”"
+                    }
+                  }
+                },
+                {
+                  "@number": "14",
+                  "unit": {
+                    "@id": "10",
+                    "@group": "0",
+                    "@parallel": "",
+                    "reading": {
+                      "@option": "0",
+                      "@mss": "Holl ",
+                      "#text": "εἶτα ἐλθὼν ἐπὶ τὸν χωλὸν καὶ αὐτὸν ἠρώτα “σὺ κατῆλθες εἰς τὸν παράδεισόν μου”; ὁ δὲ ἀποκριθεὶς εἶπεν “ὦ κύριε, πικρᾶναί μου τὴν ψυχὴν ἐν τῷ μέρει τῆς ἀδυναμίας βούλει.” καὶ λοιπὸν ἡ κρίσις ἀργεῖ."
+                    }
+                  }
+                },
+                {
+                  "@number": "15",
+                  "unit": {
+                    "@id": "11",
+                    "@group": "0",
+                    "@parallel": "",
+                    "reading": {
+                      "@option": "0",
+                      "@mss": "Holl ",
+                      "#text": "τί οὖν ποιεῖ ὁ κριτὴς ὁ δίκαιος; ἀναγνοὺς ποίῳ τρόπῳ ἀμφότεροι ἐζεύχθησαν ἐπιτίθησι τὸν χωλὸν τῷ πηρῷ καὶ τοὺς ἀμφοτέρους ἐτάζει μάστιξι, καὶ οὐ δύνανται ἀρνήσασθαι."
+                    }
+                  }
+                },
+                {
+                  "@number": "16",
+                  "unit": {
+                    "@id": "12",
+                    "@group": "0",
+                    "@parallel": "",
+                    "reading": {
+                      "@option": "0",
+                      "@mss": "Holl ",
+                      "#text": "ἑκάτεροι ἀλλήλους ἐλέγχουσιν, ὁ μὲν χωλὸς λέγων τῷ τυφλῷ “οὐ σύ με ἐβάστασας καὶ ἀπήνεγκας”; καὶ ὁ τυφλὸς τῷ χωλῷ “οὐκ αὐτὸς ὀφθαλμοί μου γέγονας”;"
+                    }
+                  }
+                },
+                {
+                  "@number": "17",
+                  "unit": {
+                    "@id": "13",
+                    "@group": "0",
+                    "@parallel": "",
+                    "reading": {
+                      "@option": "0",
+                      "@mss": "Holl ",
+                      "#text": "οὕτως τὸ σῶμα τῇ ψυχῇ καὶ ἡ ψυχὴ τῷ σώματι εἰς ἔλεγχον τῆς κοινῆς ἐργασίας συνάπτεται, καὶ ἡ κρίσις τελεία γίνεται περὶ ἀμφοτέρων, σώματός τε καὶ ψυχῆς, τῶν ἔργων [τῶν] γεγενημένων εἴτε ἀγαθῶν εἴτε φαύλων."
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      },
+      {
+        "@title": "To the Romans",
+        "@author": "Clement of Rome",
+        "@language": "Greek",
+        "@fragment": "2",
+        "divisions": {
+          "division": [
+            {
+              "@label": "Chapter",
+              "@delimiter": "."
+            },
+            {
+              "@label": "Verse"
+            }
+          ]
+        },
+        "manuscripts": {
+          "ms": {
+            "@abbrev": "Jaubert",
+            "@language": "Greek",
+            "@show": "yes",
+            "name": "Jaubert",
+            "bibliography": null
+          }
+        },
+        "text": {
+          "div": {
+            "@number": "8",
+            "div": {
+              "@number": "3",
+              "unit": {
+                "@id": "14",
+                "@group": "0",
+                "@parallel": "",
+                "reading": {
+                  "@option": "0",
+                  "@mss": "Jaubert ",
+                  "#text": "“Μετανοήσατε, οἶκος Ἰσραήλ, ἀπὸ τῆς ἀνομίας ὑμῶν· εἶπον τοῖς υἱοῖς τοῦ λαοῦ μου· Ἐὰν ὦσιν αἱ ἁμαρτίαι ὑμῶν ἀπὸ τῆς γῆς ἕως τοῦ οὐρανοῦ καὶ ἐὰν ὦσιν πυρρότεραι κόκκου καὶ μελανώτεραι σάκκου, καὶ ἐπιστραφῆτε πρός με ἐξ ὅλης τῆς καρδίας καὶ εἴπητε· Πάτερ· ἐπακούσομαι ὑμῶν ὡς λαοῦ ἁγίου.”"
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "@title": "Paedagogus",
+        "@author": "Clement of Alexandria",
+        "@language": "Greek",
+        "@fragment": "2",
+        "divisions": {
+          "division": [
+            {
+              "@label": "Book",
+              "@delimiter": "."
+            },
+            {
+              "@label": "Section",
+              "@delimiter": "."
+            },
+            {
+              "@label": "Chapter",
+              "@delimiter": "."
+            },
+            {
+              "@label": "Paragraph"
+            }
+          ]
+        },
+        "manuscripts": {
+          "ms": {
+            "@abbrev": "Stählin-Treu",
+            "@language": "Greek",
+            "@show": "yes",
+            "name": "Stählin-Treu",
+            "bibliography": null
+          }
+        },
+        "text": {
+          "div": {
+            "@number": "1",
+            "div": {
+              "@number": "10",
+              "div": {
+                "@number": "91",
+                "div": {
+                  "@number": "2",
+                  "unit": {
+                    "@id": "15",
+                    "@group": "0",
+                    "@parallel": "",
+                    "reading": {
+                      "@option": "0",
+                      "@mss": "Stählin-Treu ",
+                      "#text": "φησὶ γὰρ δι’ Ἰεζεκιήλ· “ἐὰν ἐπιστραφῆτε ἐξ ὅλης τῆς καρδίας καὶ εἴπητε· πάτερ, ἀκούσομαι ὑμῶν ὥσπερ λαοῦ ἁγίου.”"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "@title": "Quis dives salvetur",
+        "@author": "Clement of Alexandria",
+        "@language": "Greek",
+        "@fragment": "2",
+        "divisions": {
+          "division": [
+            {
+              "@label": "Chapter",
+              "@delimiter": "."
+            },
+            {
+              "@label": "Paragraph"
+            }
+          ]
+        },
+        "manuscripts": {
+          "ms": {
+            "@abbrev": "Stählin-Früchtel",
+            "@language": "Greek",
+            "@show": "yes",
+            "name": "Stählin-Früchtel",
+            "bibliography": null
+          }
+        },
+        "text": {
+          "div": {
+            "@number": "39",
+            "div": {
+              "@number": "4",
+              "unit": {
+                "@id": "16",
+                "@group": "0",
+                "@parallel": "",
+                "reading": {
+                  "@option": "0",
+                  "@mss": "Stählin-Früchtel ",
+                  "#text": "διὸ καὶ κέκραγεν· “ἔλεον θέλω καὶ οὐ θυσίαν· οὐ βούλομαι τὸν θάνατον τοῦ ἁμαρτωλοῦ, ἀλλὰ τὴν μετάνοιαν· κἂν ὦσιν αἱ ἁμαρτίαι ὑμῶν ὡς φοινικοῦν ἔριον, ὡς χιόνα λευκανῶ, κἂν μελάντερον τοῦ σκότους, ὡς ἔριον λευκὸν ἐκνίψας ποιήσω.”"
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "@title": "Stromata",
+        "@author": "Clement of Alexandria",
+        "@fragment": "2",
+        "@language": "Greek",
+        "divisions": {
+          "division": [
+            {
+              "@label": "Book",
+              "@delimiter": "."
+            },
+            {
+              "@label": "Section",
+              "@delimiter": "."
+            },
+            {
+              "@label": "Chapter",
+              "@delimiter": "."
+            },
+            {
+              "@label": "Paragraph"
+            }
+          ]
+        },
+        "manuscripts": {
+          "ms": {
+            "@abbrev": "Stählin-Früchtel",
+            "@language": "Greek",
+            "@show": "yes",
+            "name": "Craig A. Evans",
+            "bibliography": null
+          }
+        },
+        "text": {
+          "div": {
+            "@number": "7",
+            "div": {
+              "@number": "16",
+              "div": {
+                "@number": "94",
+                "div": {
+                  "@number": "2",
+                  "unit": {
+                    "@id": "17",
+                    "@group": "0",
+                    "@parallel": "",
+                    "reading": {
+                      "@option": "0",
+                      "@mss": "Stählin-Früchtel ",
+                      "#text": "“τέτοκεν καὶ οὐ τέτοκεν,” φησὶν ἡ γραφή . . ."
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "@title": "Panarion (Frag. 3)",
+        "@author": "Epiphanius",
+        "@fragment": "3",
+        "@language": "Greek",
+        "divisions": {
+          "division": [
+            {
+              "@label": "Book",
+              "@Delimiter": "."
+            },
+            {
+              "@label": "Chapter",
+              "@Delimiter": "."
+            },
+            {
+              "@label": "Line"
+            }
+          ]
+        },
+        "manuscripts": {
+          "ms": {
+            "@abbrev": "Holl",
+            "@language": "Greek",
+            "@show": "yes",
+            "name": "Holl",
+            "bibliography": null
+          }
+        },
+        "text": {
+          "div": {
+            "@number": "30",
+            "div": {
+              "@number": "30",
+              "div": {
+                "@number": "3",
+                "unit": {
+                  "@id": "24",
+                  "@group": "0",
+                  "@parallel": "",
+                  "reading": {
+                    "@option": "0",
+                    "@mss": "Holl ",
+                    "#text": "καὶ πάλιν ἐν ἑτέρῳ τόπῳ λέγει “καὶ τέξεται ἡ δάμαλις καὶ ἐροῦσιν, οὐ τέτοκεν.”"
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "@title": "Acts of Peter",
+        "@author": "Anonymous",
+        "@fragment": "3",
+        "@language": "Latin",
+        "divisions": {
+          "division": {
+            "@label": "Paragraph"
+          }
+        },
+        "manuscripts": {
+          "ms": {
+            "@abbrev": "Lipsius-Bonnet",
+            "@language": "Greek",
+            "@show": "yes",
+            "name": "Lipsius-Bonnet",
+            "bibliography": null
+          }
+        },
+        "text": {
+          "div": {
+            "@number": "24",
+            "unit": {
+              "@id": "18",
+              "@group": "0",
+              "@parallel": "",
+              "reading": {
+                "@option": "0",
+                "@mss": "Lipsius-Bonnet ",
+                "#text": ". . . et iterum dicit: “Peperit et non peperit.”"
+              }
+            }
+          }
+        }
+      },
+      {
+        "@title": "De carne Christi",
+        "@author": "Tertullian",
+        "@fragment": "3",
+        "@language": "Latin",
+        "divisions": {
+          "division": [
+            {
+              "@label": "Chapter",
+              "@Delimiter": "."
+            },
+            {
+              "@label": "Line"
+            }
+          ]
+        },
+        "manuscripts": {
+          "ms": {
+            "@abbrev": "Evans",
+            "@language": "Greek",
+            "@show": "yes",
+            "name": "Ernest Evans",
+            "bibliography": null
+          }
+        },
+        "text": {
+          "div": {
+            "@number": "23",
+            "div": [
+              {
+                "@number": "7",
+                "unit": {
+                  "@id": "19",
+                  "@group": "0",
+                  "@parallel": "",
+                  "reading": {
+                    "@option": "0",
+                    "@mss": "Evans ",
+                    "#text": "Agnoscimus ergo signum contradicibile conceptum et partum virginis Mariae, de"
+                  }
+                }
+              },
+              {
+                "@number": "8",
+                "unit": {
+                  "@id": "20",
+                  "@group": "0",
+                  "@parallel": "",
+                  "reading": {
+                    "@option": "0",
+                    "@mss": "Evans ",
+                    "#text": "quo Academici isti, “Peperit et non peperit virgo et non virgo.”"
+                  }
+                }
+              },
+              {
+                "@number": "27",
+                "unit": {
+                  "@id": "21",
+                  "@group": "0",
+                  "@parallel": "",
+                  "reading": {
+                    "@option": "0",
+                    "@mss": "Evans ",
+                    "#text": ". . ."
+                  }
+                }
+              },
+              {
+                "@number": "28",
+                "unit": {
+                  "@id": "22",
+                  "@group": "0",
+                  "@parallel": "",
+                  "reading": {
+                    "@option": "0",
+                    "@mss": "Evans ",
+                    "#text": "Legimus quidem apud Ezechielem de vacca"
+                  }
+                }
+              },
+              {
+                "@number": "29",
+                "unit": {
+                  "@id": "23",
+                  "@group": "0",
+                  "@parallel": "",
+                  "reading": {
+                    "@option": "0",
+                    "@mss": "Evans ",
+                    "#text": "illa, quae peperit et non peperit."
+                  }
+                }
+              }
+            ]
+          }
+        }
+      },
+      {
+        "@title": "Against the Jews",
+        "@author": "Gregory of Nyssa",
+        "@language": "Greek",
+        "@fragment": "3",
+        "divisions": {
+          "division": [
+            {
+              "@label": "Chapter",
+              "@Delimiter": "."
+            },
+            {
+              "@label": "Paragraph"
+            }
+          ]
+        },
+        "manuscripts": {
+          "ms": {
+            "@abbrev": "Migne",
+            "@language": "Greek",
+            "@show": "yes",
+            "name": "Migne",
+            "bibliography": null
+          }
+        },
+        "text": {
+          "div": {
+            "@number": "3",
+            "div": {
+              "@number": "16",
+              "unit": {
+                "@id": "25",
+                "@group": "0",
+                "@parallel": "",
+                "reading": {
+                  "@option": "0",
+                  "@mss": "Migne ",
+                  "#text": "Καὶ πάλιν, “Ἰδοὺ ἡ δάμαλις τέτοκε, καὶ οὐ τέτοκε.” Τοῦτο δὲ δηλοῖ τὴν Παρθένον."
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "@title": "Dialogue with Trypho",
+        "@author": "Justin Martyr",
+        "@fragment": "4",
+        "@language": "Greek",
+        "divisions": {
+          "division": [
+            {
+              "@label": "Chapter",
+              "@Delimiter": "."
+            },
+            {
+              "@label": "Paragraph"
+            }
+          ]
+        },
+        "manuscripts": {
+          "ms": {
+            "@abbrev": "Goodspeed",
+            "@language": "Greek",
+            "@show": "yes",
+            "name": "Goodspeed",
+            "bibliography": null
+          }
+        },
+        "text": {
+          "div": {
+            "@number": "47",
+            "div": {
+              "@number": "5",
+              "unit": {
+                "@id": "26",
+                "@group": "0",
+                "@parallel": "",
+                "reading": {
+                  "@option": "0",
+                  "@mss": "Goodspeed ",
+                  "#text": "ἡ γὰρ χρηστότης καὶ ἡ φιλανθρωπία τοῦ θεοῦ καὶ τὸ ἄμετρον τοῦ πλούτου αὐτοῦ τὸν μετανοοῦντα ἀπὸ τῶν ἁμαρτημάτων, ὡς δι᾽ Ἰεζεκιὴλ μηνύει, ὡς δίκαιον καὶ ἀναμάρτητον ἔχει· καὶ τὸν ἀπὸ εὐσεβείας ἢ δικαιοπραξίας μετατιθέμενον ἐπὶ ἀδικίαν καὶ ἀθεότητα ὡς ἁμαρτωλὸν καὶ ἄδικον καὶ ἀσεβῆ ἐπίσταται. διὸ καὶ ὁ ἡμέτερος κύριος Ἰησοῦς Χριστὸς εἶπεν· Ἐν οἷς ἂν ὑμᾶς καταλάβω, ἐν τούτοις καὶ κρινῶ."
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "@title": "Quis dives salvetur (Frag. 4)",
+        "@author": "Clement of Alexandria",
+        "@fragment": "4",
+        "@language": "Greek",
+        "divisions": {
+          "division": [
+            {
+              "@label": "Chapter",
+              "@Delimiter": "."
+            },
+            {
+              "@label": "Paragraph"
+            }
+          ]
+        },
+        "manuscripts": {
+          "ms": {
+            "@abbrev": "Stählin-Früchtel",
+            "@language": "Greek",
+            "@show": "yes",
+            "name": "Stählin-Früchtel",
+            "bibliography": null
+          }
+        },
+        "text": {
+          "div": {
+            "@number": "40",
+            "div": {
+              "@number": "2",
+              "unit": {
+                "@id": "27",
+                "@group": "0",
+                "@parallel": "",
+                "reading": {
+                  "@option": "0",
+                  "@mss": "Stählin-Früchtel ",
+                  "#text": "“ἐφ’ οἷς γὰρ ἂν εὕρω ὑμᾶς,” φησίν, “ἐπὶ τούτοις καὶ κρινῶ·”"
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "@title": "Paedagogus (Frag. 5)",
+        "@author": "Clement of Alexandria",
+        "@fragment": "5",
+        "@language": "Greek",
+        "divisions": {
+          "division": [
+            {
+              "@label": "Book",
+              "@Delimiter": "."
+            },
+            {
+              "@label": "Section",
+              "@Delimiter": "."
+            },
+            {
+              "@label": "Chapter",
+              "@Delimiter": "."
+            },
+            {
+              "@label": "Paragraph"
+            }
+          ]
+        },
+        "manuscripts": {
+          "ms": {
+            "@abbrev": "Stählin-Treu",
+            "@language": "Greek",
+            "@show": "yes",
+            "name": "Stählin-Treu",
+            "bibliography": null
+          }
+        },
+        "text": {
+          "div": {
+            "@number": "1",
+            "div": {
+              "@number": "9",
+              "div": {
+                "@number": "84",
+                "div": [
+                  {
+                    "@number": "2",
+                    "unit": {
+                      "@id": "28",
+                      "@group": "0",
+                      "@parallel": "",
+                      "reading": {
+                        "@option": "0",
+                        "@mss": "Stählin-Treu ",
+                        "#text": "Φησὶν γοῦν διὰ Ἰεζεκιὴλ πρὸς τοὺς πρεσβυτέρους ἀποταθεὶς καί τινα αὐτοῖς σωτήριον παρατιθέμενος εὐλόγου φροντίδος ὑπογραμμόν· “καὶ τὸ χωλὸν καταδήσω καὶ τὸ ὀχλούμενον ἰάσομαι καὶ τὸ πλανώμενον ἐπιστρέψω καὶ βοσκήσω αὐτοὺς ἐγὼ εἰς τὸ ὄρος τὸ ἅγιόν μου.” ταῦτ᾽ ἐστὶν ἀγαθοῦ ποιμένος ἐπαγγέλματα· βόσκησον ἡμᾶς τοὺς νηπίους ὡς πρόβατα."
+                      }
+                    }
+                  },
+                  {
+                    "@number": "3",
+                    "unit": {
+                      "@id": "29",
+                      "@group": "0",
+                      "@parallel": "",
+                      "reading": {
+                        "@option": "0",
+                        "@mss": "Stählin-Treu ",
+                        "#text": "Ναί, δέσποτα, τῆς σῆς πλήρωσον νομῆς, τῆς δικαιοσύνης· ναί, παιδαγωγέ, ποίμανον ἡμᾶς εἰς τὸ ἅγιόν σου ὄρος, πρὸς τὴν ἐκκλησίαν, τὴν ὑψωμένην, τὴν ὑπερνεφῆ, τὴν ἁπτομένην οὐρανῶν. “Καὶ ἔσομαι,” φησίν, “αὐτῶν ποιμὴν καὶ ἔσομαι ἐγγὺς αὐτῶν” ὡς ὁ χιτὼν τοῦ χρωτὸς αὐτῶν·"
+                      }
+                    }
+                  }
+                ]
+              }
+            }
+          }
+        }
+      },
+      {
+        "@title": "Pap. Chester Beatty XII",
+        "@author": "Anonymous",
+        "@fragment": "5",
+        "@language": "Greek",
+        "divisions": {
+          "division": [
+            {
+              "@label": "Fragment",
+              "@Delimiter": "."
+            },
+            {
+              "@label": "Side",
+              "@Delimiter": "."
+            }
+          ]
+        },
+        "manuscripts": {
+          "ms": {
+            "@abbrev": "Bonner",
+            "@language": "Greek",
+            "@show": "yes",
+            "name": "Bonner",
+            "bibliography": null
+          }
+        },
+        "text": {
+          "div": [
+            {
+              "@number": "frag. 1",
+              "@fragment": "5",
+              "div": [
+                {
+                  "@number": "recto",
+                  "unit": [
+                    {
+                      "@id": "30",
+                      "@group": "0",
+                      "@parallel": "",
+                      "reading": {
+                        "@option": "0",
+                        "@mss": "Bonner ",
+                        "@linebreak": "following",
+                        "#text": "[ . . . ] ε̣γυπτ[ιω]ν αγαλ̣[λιασομαι δε ε"
+                      }
+                    },
+                    {
+                      "@id": "31",
+                      "@group": "0",
+                      "@parallel": "",
+                      "reading": {
+                        "@option": "0",
+                        "@mss": "Bonner ",
+                        "@linebreak": "following",
+                        "#text": "[γω εν] α̣υτοις εαν̣ ερουσ̣[ιν πατερ ακου"
+                      }
+                    },
+                    {
+                      "@id": "32",
+                      "@group": "0",
+                      "@parallel": "",
+                      "reading": {
+                        "@option": "0",
+                        "@mss": "Bonner ",
+                        "@linebreak": "following",
+                        "#text": "[σθη]σεται και εσοντ[αι μετα εμου"
+                      }
+                    },
+                    {
+                      "@id": "33",
+                      "@group": "0",
+                      "@parallel": "",
+                      "reading": {
+                        "@option": "0",
+                        "@mss": "Bonner ",
+                        "@linebreak": "following",
+                        "#text": "[επι γ]η̣ς ζωης ω ιημ ε̣[ιπον προς τον κ̅ν̅"
+                      }
+                    },
+                    {
+                      "@id": "34",
+                      "@group": "0",
+                      "@parallel": "",
+                      "reading": {
+                        "@option": "0",
+                        "@mss": "Bonner ",
+                        "@linebreak": "following",
+                        "#text": "[κ̅ε̅ μ]η με ελλεγ’ξης τ̣[ω θυμω σου μη"
+                      }
+                    },
+                    {
+                      "@id": "35",
+                      "@group": "0",
+                      "@parallel": "",
+                      "reading": {
+                        "@option": "0",
+                        "@mss": "Bonner ",
+                        "@linebreak": "following",
+                        "#text": "[δε π]εδευσης με εν τη[ οργη σου δοκι"
+                      }
+                    },
+                    {
+                      "@id": "36",
+                      "@group": "0",
+                      "@parallel": "",
+                      "reading": {
+                        "@option": "0",
+                        "@mss": "Bonner ",
+                        "@linebreak": "following",
+                        "#text": "[μαζο]μαι εως των νεφ[ρων μου δια"
+                      }
+                    },
+                    {
+                      "@id": "37",
+                      "@group": "0",
+                      "@parallel": "",
+                      "reading": {
+                        "@option": "0",
+                        "@mss": "Bonner ",
+                        "@linebreak": "following",
+                        "#text": "[λελ]υμαι εως της κοιλ̣[ιας μου δος"
+                      }
+                    },
+                    {
+                      "@id": "38",
+                      "@group": "0",
+                      "@parallel": "",
+                      "reading": {
+                        "@option": "0",
+                        "@mss": "Bonner ",
+                        "@linebreak": "following",
+                        "#text": "[μοι το] ελεος σου εις εφημ[ερον ως ελεη"
+                      }
+                    },
+                    {
+                      "@id": "39",
+                      "@group": "0",
+                      "@parallel": "",
+                      "reading": {
+                        "@option": "0",
+                        "@mss": "Bonner ",
+                        "@linebreak": "following",
+                        "#text": "[σας α]β̣ρααμ’ τον πατερα ημ̣[ων και ι"
+                      }
+                    },
+                    {
+                      "@id": "40",
+                      "@group": "0",
+                      "@parallel": "",
+                      "reading": {
+                        "@option": "0",
+                        "@mss": "Bonner ",
+                        "@linebreak": "following",
+                        "#text": "[σακ’ κα]ι ιακωβ’ αλλα σε τον κ̅ν̣̅ [τον"
+                      }
+                    },
+                    {
+                      "@id": "41",
+                      "@group": "0",
+                      "@parallel": "",
+                      "reading": {
+                        "@option": "0",
+                        "@mss": "Bonner ",
+                        "@linebreak": "following",
+                        "#text": "[θ̅ν̅ η]μ̣ων εγνωκαμεν και . ["
+                      }
+                    },
+                    {
+                      "@id": "42",
+                      "@group": "0",
+                      "@parallel": "",
+                      "reading": {
+                        "@option": "0",
+                        "@mss": "Bonner ",
+                        "@linebreak": "following",
+                        "#text": "]ε̣νεσι και εγεννηθη["
+                      }
+                    },
+                    {
+                      "@id": "43",
+                      "@group": "0",
+                      "@parallel": "",
+                      "reading": {
+                        "@option": "0",
+                        "@mss": "Bonner ",
+                        "@linebreak": "following",
+                        "#text": "απο]καθημενης μεμ̣["
+                      }
+                    },
+                    {
+                      "@id": "44",
+                      "@group": "0",
+                      "@parallel": "",
+                      "reading": {
+                        "@option": "0",
+                        "@mss": "Bonner ",
+                        "@linebreak": "following",
+                        "#text": "]ς εβδελοιχθημε̣[ν"
+                      }
+                    },
+                    {
+                      "@id": "45",
+                      "@group": "0",
+                      "@parallel": "",
+                      "reading": {
+                        "@option": "0",
+                        "@mss": "Bonner ",
+                        "@linebreak": "following",
+                        "#text": "]τ̣ο ονομα απ["
+                      }
+                    },
+                    {
+                      "@id": "46",
+                      "@group": "0",
+                      "@parallel": "",
+                      "reading": {
+                        "@option": "0",
+                        "@mss": "Bonner ",
+                        "@linebreak": "following",
+                        "#text": "]μενω . ["
+                      }
+                    },
+                    {
+                      "@id": "47",
+                      "@group": "0",
+                      "@parallel": "",
+                      "reading": {
+                        "@option": "0",
+                        "@mss": "Bonner ",
+                        "@linebreak": "following",
+                        "#text": "]π̣λατεια . ["
+                      }
+                    }
+                  ]
+                },
+                {
+                  "@number": "verso",
+                  "unit": [
+                    {
+                      "@id": "48",
+                      "@group": "0",
+                      "@parallel": "",
+                      "reading": {
+                        "@option": "0",
+                        "@mss": "Bonner ",
+                        "@linebreak": "both",
+                        "#text": "[το πλανωμενο]ν̣ ου̣κ̣ επ̣[εσ]τρεψ[ατε και"
+                      }
+                    },
+                    {
+                      "@id": "49",
+                      "@group": "0",
+                      "@parallel": "",
+                      "reading": {
+                        "@option": "0",
+                        "@mss": "Bonner ",
+                        "@linebreak": "following",
+                        "#text": "[το ενοχλουμενο]ν ουκ εθ̣[ε]ραπ[ευσατε"
+                      }
+                    },
+                    {
+                      "@id": "50",
+                      "@group": "0",
+                      "@parallel": "",
+                      "reading": {
+                        "@option": "0",
+                        "@mss": "Bonner ",
+                        "@linebreak": "following",
+                        "#text": "[και ποιειτε τον] λαον μου πλαν[ασθαι α"
+                      }
+                    },
+                    {
+                      "@id": "51",
+                      "@group": "0",
+                      "@parallel": "",
+                      "reading": {
+                        "@option": "0",
+                        "@mss": "Bonner ",
+                        "@linebreak": "following",
+                        "#text": "[πο νομης της] κ̣αλης και πορευ[εσθαι εις"
+                      }
+                    },
+                    {
+                      "@id": "52",
+                      "@group": "0",
+                      "@parallel": "",
+                      "reading": {
+                        "@option": "0",
+                        "@mss": "Bonner ",
+                        "@linebreak": "following",
+                        "#text": "[τριβολους κ]αι ακανθας αντι χ̣[ορτου"
+                      }
+                    },
+                    {
+                      "@id": "53",
+                      "@group": "0",
+                      "@parallel": "",
+                      "reading": {
+                        "@option": "0",
+                        "@mss": "Bonner ",
+                        "@linebreak": "following",
+                        "#text": "[και ουκ ετηρη]σατε την εμην εν̣[τολην"
+                      }
+                    },
+                    {
+                      "@id": "54",
+                      "@group": "0",
+                      "@parallel": "",
+                      "reading": {
+                        "@option": "0",
+                        "@mss": "Bonner ",
+                        "@linebreak": "following",
+                        "#text": "[αλλα πας πυμη]ν εξ υμων ανεω[ξε το στο"
+                      }
+                    },
+                    {
+                      "@id": "55",
+                      "@group": "0",
+                      "@parallel": "",
+                      "reading": {
+                        "@option": "0",
+                        "@mss": "Bonner ",
+                        "@linebreak": "following",
+                        "#text": "[μα και πολλ]ο̣ι εις καταβρωμα α̣[υτοις ε"
+                      }
+                    },
+                    {
+                      "@id": "56",
+                      "@group": "0",
+                      "@parallel": "",
+                      "reading": {
+                        "@option": "0",
+                        "@mss": "Bonner ",
+                        "@linebreak": "following",
+                        "#text": "[γενοντο αλ]λ̣α ειδου εγω διακριν[ω κριον"
+                      }
+                    },
+                    {
+                      "@id": "57",
+                      "@group": "0",
+                      "@parallel": "",
+                      "reading": {
+                        "@option": "0",
+                        "@mss": "Bonner ",
+                        "@linebreak": "following",
+                        "#text": "[προς κριον] και μοσχον προς μοσχ[ον και"
+                      }
+                    },
+                    {
+                      "@id": "58",
+                      "@group": "0",
+                      "@parallel": "",
+                      "reading": {
+                        "@option": "0",
+                        "@mss": "Bonner ",
+                        "@linebreak": "following",
+                        "#text": "[το χωλο]ν̣ κατε̣δησω και το ενο[χλουμε"
+                      }
+                    },
+                    {
+                      "@id": "59",
+                      "@group": "0",
+                      "@parallel": "",
+                      "reading": {
+                        "@option": "0",
+                        "@mss": "Bonner ",
+                        "@linebreak": "following",
+                        "#text": "[νον ια]σ̣ομαι και το πλανομε̣[νον επι"
+                      }
+                    },
+                    {
+                      "@id": "60",
+                      "@group": "0",
+                      "@parallel": "",
+                      "reading": {
+                        "@option": "0",
+                        "@mss": "Bonner ",
+                        "@linebreak": "following",
+                        "#text": "[στρεψω κ]αι βοσκησω αυτου̣[ς εγω και ανα"
+                      }
+                    },
+                    {
+                      "@id": "61",
+                      "@group": "0",
+                      "@parallel": "",
+                      "reading": {
+                        "@option": "0",
+                        "@mss": "Bonner ",
+                        "@linebreak": "following",
+                        "#text": "[παυσω ε]πι το ορος το αγιον [μου και ε"
+                      }
+                    },
+                    {
+                      "@id": "62",
+                      "@group": "0",
+                      "@parallel": "",
+                      "reading": {
+                        "@option": "0",
+                        "@mss": "Bonner ",
+                        "@linebreak": "following",
+                        "#text": "[σομαι αυ]τοις πυμην κ[αι εσομαι εγγυς"
+                      }
+                    },
+                    {
+                      "@id": "63",
+                      "@group": "0",
+                      "@parallel": "",
+                      "reading": {
+                        "@option": "0",
+                        "@mss": "Bonner ",
+                        "@linebreak": "following",
+                        "#text": "[αυτων ως ο χ]ιτων του χρ̣[ωτος αυτων και"
+                      }
+                    },
+                    {
+                      "@id": "64",
+                      "@group": "0",
+                      "@parallel": "",
+                      "reading": {
+                        "@option": "0",
+                        "@mss": "Bonner ",
+                        "@linebreak": "following",
+                        "#text": "[επικαλεσ]ονται με̣ [και ερω ιδου παρει"
+                      }
+                    },
+                    {
+                      "@id": "65",
+                      "@group": "0",
+                      "@parallel": "",
+                      "reading": {
+                        "@option": "0",
+                        "@mss": "Bonner ",
+                        "@linebreak": "following",
+                        "#text": "[μι εαν διαβαι]ν̣ω̣σιν ο̣[υκ ολισθησου"
+                      }
+                    },
+                    {
+                      "@id": "66",
+                      "@group": "0",
+                      "@parallel": "",
+                      "reading": {
+                        "@option": "0",
+                        "@mss": "Bonner ",
+                        "@linebreak": "following",
+                        "#text": "[σιν λεγει κ̅ς̅] εκ̣ο["
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "@number": "frag. 2",
+              "div": [
+                {
+                  "@number": "recto",
+                  "unit": [
+                    {
+                      "@id": "67",
+                      "@group": "0",
+                      "@parallel": "",
+                      "reading": {
+                        "@option": "0",
+                        "@mss": "Bonner ",
+                        "@linebreak": "both",
+                        "#text": "]α̣νισ . ["
+                      }
+                    },
+                    {
+                      "@id": "68",
+                      "@group": "0",
+                      "@parallel": "",
+                      "reading": {
+                        "@option": "0",
+                        "@mss": "Bonner ",
+                        "@linebreak": "following",
+                        "#text": "]πυρος β  ̣[. . . .] . [ . ] . ["
+                      }
+                    },
+                    {
+                      "@id": "69",
+                      "@group": "0",
+                      "@parallel": "",
+                      "reading": {
+                        "@option": "0",
+                        "@mss": "Bonner ",
+                        "@linebreak": "following",
+                        "#text": "]ε̣ι εκ’μειαινοντ[ες"
+                      }
+                    },
+                    {
+                      "@id": "70",
+                      "@group": "0",
+                      "@parallel": "",
+                      "reading": {
+                        "@option": "0",
+                        "@mss": "Bonner ",
+                        "@linebreak": "following",
+                        "#text": "]ε̣τι προσεβαινον τη̣["
+                      }
+                    },
+                    {
+                      "@id": "71",
+                      "@group": "0",
+                      "@parallel": "",
+                      "reading": {
+                        "@option": "0",
+                        "@mss": "Bonner ",
+                        "@linebreak": "following",
+                        "#text": "πρεσ]βυτας αδυναμουν[τας"
+                      }
+                    },
+                    {
+                      "@id": "72",
+                      "@group": "0",
+                      "@parallel": "",
+                      "reading": {
+                        "@option": "0",
+                        "@mss": "Bonner ",
+                        "@linebreak": "following",
+                        "#text": "ε]πι τα ϋψηλα και π . . ["
+                      }
+                    },
+                    {
+                      "@id": "73",
+                      "@group": "0",
+                      "@parallel": "",
+                      "reading": {
+                        "@option": "0",
+                        "@mss": "Bonner ",
+                        "@linebreak": "following",
+                        "#text": "]δια το οδαγους μη ε[χειν"
+                      }
+                    },
+                    {
+                      "@id": "74",
+                      "@group": "0",
+                      "@parallel": "",
+                      "reading": {
+                        "@option": "0",
+                        "@mss": "Bonner ",
+                        "@linebreak": "following",
+                        "#text": "]ε̣ο̣ς̣ εισιν οι της φων[ης"
+                      }
+                    },
+                    {
+                      "@id": "75",
+                      "@group": "0",
+                      "@parallel": "",
+                      "reading": {
+                        "@option": "0",
+                        "@mss": "Bonner ",
+                        "@linebreak": "following",
+                        "#text": "] . . [ . ] ανεβλεψα δε κ["
+                      }
+                    },
+                    {
+                      "@id": "76",
+                      "@group": "0",
+                      "@parallel": "",
+                      "reading": {
+                        "@option": "0",
+                        "@mss": "Bonner ",
+                        "@linebreak": "following",
+                        "#text": "] . ου κρεμαμενου . ["
+                      }
+                    },
+                    {
+                      "@id": "77",
+                      "@group": "0",
+                      "@parallel": "",
+                      "reading": {
+                        "@option": "0",
+                        "@mss": "Bonner ",
+                        "@linebreak": "following",
+                        "#text": "]ανου καθιπταμ̣["
+                      }
+                    },
+                    {
+                      "@id": "78",
+                      "@group": "0",
+                      "@parallel": "",
+                      "reading": {
+                        "@option": "0",
+                        "@mss": "Bonner ",
+                        "@linebreak": "following",
+                        "#text": "]υ̣τον και ειπ̣[α"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "@number": "verso",
+                  "unit": [
+                    {
+                      "@id": "79",
+                      "@group": "0",
+                      "@parallel": "",
+                      "reading": {
+                        "@option": "0",
+                        "@mss": "Bonner ",
+                        "@linebreak": "both",
+                        "#text": "] . . . ["
+                      }
+                    },
+                    {
+                      "@id": "80",
+                      "@group": "0",
+                      "@parallel": "",
+                      "reading": {
+                        "@option": "0",
+                        "@mss": "Bonner ",
+                        "@linebreak": "following",
+                        "#text": "] . ε . [ . . . . ] . [ . ] ως ο κ["
+                      }
+                    },
+                    {
+                      "@id": "81",
+                      "@group": "0",
+                      "@parallel": "",
+                      "reading": {
+                        "@option": "0",
+                        "@mss": "Bonner ",
+                        "@linebreak": "following",
+                        "#text": "]ιν π .[ . ]. . ληθην["
+                      }
+                    },
+                    {
+                      "@id": "82",
+                      "@group": "0",
+                      "@parallel": "",
+                      "reading": {
+                        "@option": "0",
+                        "@mss": "Bonner ",
+                        "@linebreak": "following",
+                        "#text": "ε]στιν τω δεδουλευ[μενω"
+                      }
+                    },
+                    {
+                      "@id": "83",
+                      "@group": "0",
+                      "@parallel": "",
+                      "reading": {
+                        "@option": "0",
+                        "@mss": "Bonner ",
+                        "@linebreak": "following",
+                        "#text": "] . καρδια καθαρα κα̣[ι"
+                      }
+                    },
+                    {
+                      "@id": "84",
+                      "@group": "0",
+                      "@parallel": "",
+                      "reading": {
+                        "@option": "0",
+                        "@mss": "Bonner ",
+                        "@linebreak": "following",
+                        "#text": "].ται επι κ̅ν̅ τον θ̅ν̅["
+                      }
+                    },
+                    {
+                      "@id": "85",
+                      "@group": "0",
+                      "@parallel": "",
+                      "reading": {
+                        "@option": "0",
+                        "@mss": "Bonner ",
+                        "@linebreak": "following",
+                        "#text": "]αι τα συντετριμ’με̣[να"
+                      }
+                    },
+                    {
+                      "@id": "86",
+                      "@group": "0",
+                      "@parallel": "",
+                      "reading": {
+                        "@option": "0",
+                        "@mss": "Bonner ",
+                        "@linebreak": "following",
+                        "#text": "]οι ϋμας και στησε[ται"
+                      }
+                    },
+                    {
+                      "@id": "87",
+                      "@group": "0",
+                      "@parallel": "",
+                      "reading": {
+                        "@option": "0",
+                        "@mss": "Bonner ",
+                        "@linebreak": "following",
+                        "#text": "]μετα παντος του . ["
+                      }
+                    },
+                    {
+                      "@id": "88",
+                      "@group": "0",
+                      "@parallel": "",
+                      "reading": {
+                        "@option": "0",
+                        "@mss": "Bonner ",
+                        "@linebreak": "following",
+                        "#text": "ε]ρ̣ημωμενην ϋπο["
+                      }
+                    },
+                    {
+                      "@id": "89",
+                      "@group": "0",
+                      "@parallel": "",
+                      "reading": {
+                        "@option": "0",
+                        "@mss": "Bonner ",
+                        "@linebreak": "following",
+                        "#text": "] . ησθησεται αυτ["
+                      }
+                    },
+                    {
+                      "@id": "90",
+                      "@group": "0",
+                      "@parallel": "",
+                      "reading": {
+                        "@option": "0",
+                        "@mss": "Bonner ",
+                        "@linebreak": "following",
+                        "#text": "] . λις και . . . ["
+                      }
+                    },
+                    {
+                      "@id": "91",
+                      "@group": "0",
+                      "@parallel": "",
+                      "reading": {
+                        "@option": "0",
+                        "@mss": "Bonner ",
+                        "@linebreak": "following",
+                        "#text": "]ον . ["
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "@number": "frag. 3",
+              "div": [
+                {
+                  "@number": "recto",
+                  "unit": [
+                    {
+                      "@id": "92",
+                      "@group": "0",
+                      "@parallel": "",
+                      "reading": {
+                        "@option": "0",
+                        "@mss": "Bonner ",
+                        "@linebreak": "both",
+                        "#text": "]ι νυν υμ . ["
+                      }
+                    },
+                    {
+                      "@id": "93",
+                      "@group": "0",
+                      "@parallel": "",
+                      "reading": {
+                        "@option": "0",
+                        "@mss": "Bonner ",
+                        "@linebreak": "following",
+                        "#text": "]ται απο του ν̣["
+                      }
+                    },
+                    {
+                      "@id": "94",
+                      "@group": "0",
+                      "@parallel": "",
+                      "reading": {
+                        "@option": "0",
+                        "@mss": "Bonner ",
+                        "@linebreak": "following",
+                        "#text": "μο]χ̣θηρων και̣["
+                      }
+                    }
+                  ]
+                },
+                {
+                  "@number": "verso",
+                  "unit": [
+                    {
+                      "@id": "95",
+                      "@group": "0",
+                      "@parallel": "",
+                      "reading": {
+                        "@option": "0",
+                        "@mss": "Bonner ",
+                        "@linebreak": "both",
+                        "#text": "]. χωρας .["
+                      }
+                    },
+                    {
+                      "@id": "96",
+                      "@group": "0",
+                      "@parallel": "",
+                      "reading": {
+                        "@option": "0",
+                        "@mss": "Bonner ",
+                        "@linebreak": "following",
+                        "#text": "]η̣ς καλυπ["
+                      }
+                    },
+                    {
+                      "@id": "97",
+                      "@group": "0",
+                      "@parallel": "",
+                      "reading": {
+                        "@option": "0",
+                        "@mss": "Bonner ",
+                        "@linebreak": "following",
+                        "#text": "]γεινεται ε["
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

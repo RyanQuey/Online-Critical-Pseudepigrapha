@@ -20,7 +20,7 @@ for filename in os.listdir(directory):
             data_dict = xmltodict.parse(xml_input)
 
         # Convert the dictionary to a JSON object
-        json_data = json.dumps(data_dict, ensure_ascii=False).encode('utf8').decode()
+        json_data = json.dumps(data_dict, ensure_ascii=False, indent=2).encode('utf8').decode()
 
         # Write the JSON data to an output file
         with open(target_filepath, "w") as json_file:
